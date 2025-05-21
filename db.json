@@ -9,13 +9,13 @@
       "venueCapacity": 25000,
       "organizer": "Live Nation",
       "description": "Experience the magic of OneRepublic live in concert as they bring their electrifying performance to Baku Crystal Hall. Known for their chart-topping hits such as 'Counting Stars,' 'Apologize,' and 'Secrets,' this American pop-rock band has captivated audiences worldwide. With stunning visuals, powerful vocals, and anthemic melodies, this concert promises an unforgettable night filled with energy, passion, and musical brilliance. Whether you're a long-time fan or discovering their music for the first time, this is a night you won't want to miss.",
-      "ticketsAvailable": 4999,
+      "ticketsAvailable": 4998,
       "category": "Concert",
       "price": 63,
       "ageRestriction": "All Ages",
-      "posterURL": "./src/assets/images/posters/one-republic-poster.webp",
+      "posterURL": "../public/images/posters/one-republic-poster.webp",
       "duration": "3 hours",
-      "detailPoster": "./src/assets/images/detail-images/one-republic-detail.jpg",
+      "detailPoster": "../public/images/detail-images/one-republic-detail.jpg",
       "soldTickets": 20000,
       "iframeURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3040.9167625831356!2d49.84755837660695!3d40.34419246005029!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40307c19888a3a81%3A0xc253fcb6c530cf3!2sBaku%20Crystal%20Hall!5e0!3m2!1sen!2saz!4v1740154693930!5m2!1sen!2saz"
     },
@@ -32,9 +32,9 @@
       "category": "Festival",
       "price": 30,
       "ageRestriction": "6+",
-      "posterURL": "./src/assets/images/posters/dream-fest-poster.jpg",
+      "posterURL": "../public/images/posters/dream-fest-poster.jpg",
       "duration": "6 days",
-      "detailPoster": "./src/assets/images/detail-images/dream-fest-detail.jpg",
+      "detailPoster": "../public/images/detail-images/dream-fest-detail.jpg",
       "soldTickets": 7000,
       "iframeURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d97070.3814704901!2d49.88881884774399!3d40.50955650528409!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4030f237c714b907%3A0x3f5655d68df81818!2sSea%20Breeze%20Resort!5e0!3m2!1sen!2saz!4v1740154911941!5m2!1sen!2saz"
     },
@@ -47,13 +47,13 @@
       "venueCapacity": 3500,
       "organizer": "Music Events LLC",
       "description": "Celebrate International Women's Day with an exclusive concert featuring Azerbaijan's legendary singer, Brilliant Dadashova. With a career spanning decades, her timeless hits and soulful voice have touched millions. This special evening will showcase a blend of her classic ballads and energetic pop songs, accompanied by a stunning live orchestra. It's an opportunity to honor women through the universal language of music and enjoy an elegant, emotionally charged performance.",
-      "ticketsAvailable": 499,
+      "ticketsAvailable": 498,
       "category": "Concert",
       "price": 50,
       "ageRestriction": "All Ages",
-      "posterURL": "./src/assets/images/posters/brilliant-poster.png",
+      "posterURL": "../public/images/posters/brilliant-poster.png",
       "duration": "2 hours",
-      "detailPoster": "./src/assets/images/detail-images/brilliant-detail.jpg",
+      "detailPoster": "../public/images/detail-images/brilliant-detail.jpg",
       "soldTickets": 3000,
       "iframeURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3038.5125190099525!2d49.86287717660878!3d40.397495556808764!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40307d412c43d539%3A0x294c20fed11538be!2sBaku%20Convention%20Center!5e0!3m2!1sen!2saz!4v1740154982949!5m2!1sen!2saz"
     },
@@ -70,9 +70,9 @@
       "category": "Circus",
       "price": 15,
       "ageRestriction": "All Ages",
-      "posterURL": "./src/assets/images/posters/circus-poster.jpg",
+      "posterURL": "../public/images/posters/circus-poster.jpg",
       "duration": "2.5 hours",
-      "detailPoster": "./src/assets/images/detail-images/circus-detail.jpg",
+      "detailPoster": "../public/images/detail-images/circus-detail.jpg",
       "soldTickets": 1200,
       "iframeURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d97070.3814704901!2d49.88881884774399!3d40.50955650528409!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4030f237c714b907%3A0x3f5655d68df81818!2sSea%20Breeze%20Resort!5e0!3m2!1sen!2saz!4v1740154911941!5m2!1sen!2saz"
     },
@@ -89,9 +89,9 @@
       "category": "Circus",
       "price": "11",
       "ageRestriction": "All Ages",
-      "posterURL": "./src/assets/images/posters/nikulin-poster.jpg",
+      "posterURL": "../public/images/posters/nikulin-poster.jpg",
       "duration": "2 hours",
-      "detailPoster": "./src/assets/images/detail-images/nikulin-detail.jpg",
+      "detailPoster": "../public/images/detail-images/nikulin-detail.jpg",
       "soldTickets": "2000",
       "iframeURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3040.2567260494093!2d49.83241007660758!3d40.358831559160194!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40307c33b969dd01%3A0x9950842ed59b39b2!2sBaku%20Sports%20Hall!5e0!3m2!1sen!2saz!4v1740155041441!5m2!1sen!2saz",
       "vanueName": "Baku Sports Hall"
@@ -109,9 +109,9 @@
       "category": "Cultural",
       "price": "8",
       "ageRestriction": "All Ages",
-      "posterURL": "./src/assets/images/posters/novruz-poster.jpg",
+      "posterURL": "../public/images/posters/novruz-poster.jpg",
       "duration": "3 hours",
-      "detailPoster": "./src/assets/images/detail-images/novruz-detail.jpg",
+      "detailPoster": "../public/images/detail-images/novruz-detail.jpg",
       "soldTickets": "1500",
       "iframeURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3039.4045183774165!2d49.839213676608274!3d40.37772635801147!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40307da431270ccf%3A0xd1c2b3e9a7748f50!2sHeydar%20Aliyev%20Palace!5e0!3m2!1sen!2saz!4v1740155076517!5m2!1sen!2saz",
       "vanueName": "Heydar Aliyev Palace"
@@ -129,9 +129,9 @@
       "category": "Music",
       "price": "20",
       "ageRestriction": "6+",
-      "posterURL": "./src/assets/images/posters/zimmer-poster.jpg",
+      "posterURL": "../public/images/posters/zimmer-poster.jpg",
       "duration": "2.5 hours",
-      "detailPoster": "./src/assets/images/detail-images/zimmer-detail.jpg",
+      "detailPoster": "../public/images/detail-images/zimmer-detail.jpg",
       "soldTickets": "400",
       "iframeURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3039.4110775811837!2d49.84050437660817!3d40.37758095802025!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40307da6788709dd%3A0xc85e9b91b3ee0ea!2s98%20Shamsi%20Badalbeyli%20St%2C%20Baku!5e0!3m2!1sen!2saz!4v1740155147243!5m2!1sen!2saz",
       "vanueName": "The concert hall of Opera Studio to Baku Music Academy"
@@ -149,9 +149,9 @@
       "category": "Concert",
       "price": 20,
       "ageRestriction": "6+",
-      "posterURL": "./src/assets/images/posters/kalben-poster.jpg",
+      "posterURL": "../public/images/posters/kalben-poster.jpg",
       "duration": "1.5 hours",
-      "detailPoster": "./src/assets/images/detail-images/kalben-detail.jpg",
+      "detailPoster": "../public/images/detail-images/kalben-detail.jpg",
       "soldTickets": 1658,
       "iframeURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3039.4045183774165!2d49.839213676608274!3d40.37772635801147!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40307da431270ccf%3A0xd1c2b3e9a7748f50!2sHeydar%20Aliyev%20Palace!5e0!3m2!1sen!2saz!4v1740155076517!5m2!1sen!2saz"
     },
@@ -168,9 +168,9 @@
       "category": "Dance",
       "price": 40,
       "ageRestriction": "6+",
-      "posterURL": "./src/assets/images/posters/flamenko-poster.jpg",
+      "posterURL": "../public/images/posters/flamenko-poster.jpg",
       "duration": "2 hours",
-      "detailPoster": "./src/assets/images/detail-images/karmen-detail.jpg",
+      "detailPoster": "../public/images/detail-images/karmen-detail.jpg",
       "soldTickets": 700,
       "iframeURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3039.677270452619!2d49.84038132660806!3d40.3716798083791!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40307daf1120da8b%3A0xc9b55ae565bd4ea1!2zQXrJmXJiYXljYW4gRMO2dmzJmXQgQWthZGVtaWsgT3BlcmEgdsmZIEJhbGV0IFRlYXRyxLE!5e0!3m2!1sen!2saz!4v1740155264723!5m2!1sen!2saz"
     },
@@ -187,9 +187,9 @@
       "category": "Concert",
       "price": 40,
       "ageRestriction": "All Ages",
-      "posterURL": "./src/assets/images/posters/pizza-poster.jpg",
+      "posterURL": "../public/images/posters/pizza-poster.jpg",
       "duration": "2 hours",
-      "detailPoster": "./src/assets/images/detail-images/pizza-detail.jpg",
+      "detailPoster": "../public/images/detail-images/pizza-detail.jpg",
       "soldTickets": 3000,
       "iframeURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3040.9167625831356!2d49.84755837660695!3d40.34419246005029!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40307c19888a3a81%3A0xc253fcb6c530cf3!2sBaku%20Crystal%20Hall!5e0!3m2!1sen!2saz!4v1740154693930!5m2!1sen!2saz"
     },
@@ -202,13 +202,13 @@
       "venueCapacity": "500",
       "organizer": "Melody School Events",
       "description": "An evening dedicated to showcasing the incredible talents of Melody School students, featuring captivating music performances, heartfelt recitals, and special guest appearances. This event offers a unique opportunity to witness young and aspiring musicians as they present their hard work and dedication on stage. Whether you're a family member, a music enthusiast, or simply looking for an inspiring evening, this showcase will be a delightful experience filled with passion, creativity, and outstanding performances. Celebrate the future of music with us!",
-      "ticketsAvailable": "199",
+      "ticketsAvailable": 197,
       "category": "Music & Arts",
       "price": "15",
       "ageRestriction": "All Ages",
-      "posterURL": "./src/assets/images/posters/melody-poster.jpg",
+      "posterURL": "../public/images/posters/melody-poster.jpg",
       "duration": "2 hours",
-      "detailPoster": "./src/assets/images/detail-images/melody-detail.jpg",
+      "detailPoster": "../public/images/detail-images/melody-detail.jpg",
       "soldTickets": "300",
       "iframeURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3039.5451625432074!2d49.844227476608005!3d40.37460855820105!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40307daf279cefc1%3A0x75bbf999af54772!2sRashid%20Behbudov%20State%20Song%20Theatre!5e0!3m2!1sen!2saz!4v1740155464390!5m2!1sen!2saz"
     },
@@ -225,9 +225,9 @@
       "category": "Music",
       "price": "10",
       "ageRestriction": "18+",
-      "posterURL": "./src/assets/images/posters/weeknd-poster.jpg",
+      "posterURL": "../public/images/posters/weeknd-poster.jpg",
       "duration": "3 hours",
-      "detailPoster": "./src/assets/images/detail-images/weeknd-detail.jpg",
+      "detailPoster": "../public/images/detail-images/weeknd-detail.jpg",
       "soldTickets": "300",
       "iframeURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3039.7194598619003!2d49.84712447660803!3d40.37074445843594!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40307dad090d9181%3A0x2b88981f2bd87785!2sPark%20Bulvar%20Mall!5e0!3m2!1sen!2saz!4v1740155505845!5m2!1sen!2saz"
     },
@@ -244,9 +244,9 @@
       "category": "Party",
       "price": "50",
       "ageRestriction": "18+",
-      "posterURL": "./src/assets/images/posters/party-poster.jpg",
+      "posterURL": "../public/images/posters/party-poster.jpg",
       "duration": "7 hours",
-      "detailPoster": "./src/assets/images/detail-images/party-detail.jpg",
+      "detailPoster": "../public/images/detail-images/party-detail.jpg",
       "soldTickets": "200",
       "iframeURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3039.7248679501863!2d49.84752447660794!3d40.370624558443325!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40307d48cedf629f%3A0xd2b0761dfca5bb6c!2sHayal%20Kahvesi%20Baku!5e0!3m2!1sen!2saz!4v1740155583915!5m2!1sen!2saz",
       "vanueName": "Sky Lounge Baku"
@@ -263,9 +263,9 @@
       "category": "Concert",
       "price": "59",
       "ageRestriction": "16+",
-      "posterURL": "./src/assets/images/posters/kenan-poster.jpg",
+      "posterURL": "../public/images/posters/kenan-poster.jpg",
       "duration": "1.5 hours",
-      "detailPoster": "./src/assets/images/detail-images/kenan-detail.jpg",
+      "detailPoster": "../public/images/detail-images/kenan-detail.jpg",
       "soldTickets": "2000",
       "iframeURL": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3039.7248679501863!2d49.84752447660794!3d40.370624558443325!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40307d48cedf629f%3A0xd2b0761dfca5bb6c!2sHayal%20Kahvesi%20Baku!5e0!3m2!1sen!2saz!4v1740155583915!5m2!1sen!2saz"
     }
@@ -298,14 +298,20 @@
       "fullName": "Johnny Events",
       "email": "johnny@example.com",
       "password": "Hashed_password_2",
-      "balance": 87,
+      "balance": 357,
       "profilePictureURL": "https://cdn-icons-png.freepik.com/512/13126/13126995.png",
       "favorites": [
         {
           "id": "1"
+        },
+        {
+          "id": "6"
+        },
+        {
+          "id": "11"
         }
       ],
-      "accountCreationDate": "05/15/2023",
+      "accountCreationDate": "04/27/2025",
       "totalSpentMoney": 143
     },
     {
@@ -329,7 +335,7 @@
       "totalSpentMoney": 50
     },
     {
-      "id": 4,
+      "id": "4",
       "role": "client",
       "username": "jenny_tech",
       "fullName": "Jenny Tech",
@@ -349,7 +355,7 @@
       "totalSpentMoney": 110
     },
     {
-      "id": 5,
+      "id": "5",
       "role": "client",
       "username": "susan_smith",
       "fullName": "Susan Smith",
@@ -369,7 +375,7 @@
       "totalSpentMoney": 250
     },
     {
-      "id": 6,
+      "id": "6",
       "role": "client",
       "username": "alex_brown",
       "fullName": "Alex Brown",
@@ -389,7 +395,7 @@
       "totalSpentMoney": 60
     },
     {
-      "id": 7,
+      "id": "7",
       "role": "client",
       "username": "emily_jo",
       "fullName": "Emily Jo",
@@ -409,7 +415,7 @@
       "totalSpentMoney": 30
     },
     {
-      "id": 8,
+      "id": "8",
       "role": "client",
       "username": "jack_miller",
       "fullName": "Jack Miller",
@@ -429,7 +435,7 @@
       "totalSpentMoney": 20
     },
     {
-      "id": 9,
+      "id": "9",
       "role": "client",
       "username": "olivia_white",
       "fullName": "Olivia White",
@@ -449,7 +455,7 @@
       "totalSpentMoney": 150
     },
     {
-      "id": 10,
+      "id": "10",
       "role": "client",
       "username": "lucas_king",
       "fullName": "Lucas King",
@@ -469,7 +475,7 @@
       "totalSpentMoney": 90
     },
     {
-      "id": 11,
+      "id": "11",
       "role": "client",
       "username": "sophia_lee",
       "fullName": "Sophia Lee",
@@ -489,7 +495,7 @@
       "totalSpentMoney": 70
     },
     {
-      "id": 12,
+      "id": "12",
       "role": "client",
       "username": "benjamin_gray",
       "fullName": "Benjamin Gray",
@@ -509,7 +515,7 @@
       "totalSpentMoney": 10
     },
     {
-      "id": 13,
+      "id": "13",
       "role": "client",
       "username": "mia_peters",
       "fullName": "Mia Peters",
@@ -529,7 +535,7 @@
       "totalSpentMoney": 40
     },
     {
-      "id": 14,
+      "id": "14",
       "role": "client",
       "username": "nathan_fox",
       "fullName": "Nathan Fox",
@@ -549,7 +555,7 @@
       "totalSpentMoney": 60
     },
     {
-      "id": 15,
+      "id": "15",
       "role": "client",
       "username": "ella_baker",
       "fullName": "Ella Baker",
@@ -571,7 +577,7 @@
   ],
   "tickets": [
     {
-      "id": 1,
+      "id": "1",
       "userId": 2,
       "eventId": 1,
       "quantity": 2,
@@ -580,7 +586,7 @@
       "ticketCode": "TK-001-AB12X"
     },
     {
-      "id": 2,
+      "id": "2",
       "userId": 3,
       "eventId": 2,
       "quantity": 1,
@@ -589,7 +595,7 @@
       "ticketCode": "TK-002-CD34Y"
     },
     {
-      "id": 3,
+      "id": "3",
       "userId": 4,
       "eventId": 3,
       "quantity": 3,
@@ -598,7 +604,7 @@
       "ticketCode": "TK-003-EF56Z"
     },
     {
-      "id": 4,
+      "id": "4",
       "userId": 5,
       "eventId": 4,
       "quantity": 1,
@@ -607,7 +613,7 @@
       "ticketCode": "TK-004-GH78A"
     },
     {
-      "id": 5,
+      "id": "5",
       "userId": 2,
       "eventId": 5,
       "quantity": 2,
@@ -616,7 +622,7 @@
       "ticketCode": "TK-005-IJ90B"
     },
     {
-      "id": 6,
+      "id": "6",
       "userId": 6,
       "eventId": 2,
       "quantity": 1,
@@ -625,7 +631,7 @@
       "ticketCode": "TK-006-KL12C"
     },
     {
-      "id": 7,
+      "id": "7",
       "userId": 7,
       "eventId": 3,
       "quantity": 2,
@@ -634,7 +640,7 @@
       "ticketCode": "TK-007-MN34D"
     },
     {
-      "id": 8,
+      "id": "8",
       "userId": 8,
       "eventId": 1,
       "quantity": 4,
@@ -643,7 +649,7 @@
       "ticketCode": "TK-008-OP56E"
     },
     {
-      "id": 9,
+      "id": "9",
       "userId": 9,
       "eventId": 4,
       "quantity": 1,
@@ -652,7 +658,7 @@
       "ticketCode": "TK-009-QR78F"
     },
     {
-      "id": 10,
+      "id": "10",
       "userId": 10,
       "eventId": 5,
       "quantity": 3,
@@ -661,7 +667,7 @@
       "ticketCode": "TK-010-ST90G"
     },
     {
-      "id": 11,
+      "id": "11",
       "userId": 11,
       "eventId": 1,
       "quantity": 2,
@@ -670,7 +676,7 @@
       "ticketCode": "TK-011-UV12H"
     },
     {
-      "id": 12,
+      "id": "12",
       "userId": 12,
       "eventId": 3,
       "quantity": 1,
@@ -679,7 +685,7 @@
       "ticketCode": "TK-012-WX34I"
     },
     {
-      "id": 13,
+      "id": "13",
       "userId": 13,
       "eventId": 4,
       "quantity": 3,
@@ -688,7 +694,7 @@
       "ticketCode": "TK-013-YZ56J"
     },
     {
-      "id": 14,
+      "id": "14",
       "userId": 14,
       "eventId": 2,
       "quantity": 2,
@@ -697,7 +703,7 @@
       "ticketCode": "TK-014-AA78K"
     },
     {
-      "id": 15,
+      "id": "15",
       "userId": 15,
       "eventId": 5,
       "quantity": 1,
@@ -873,6 +879,33 @@
       "price": 63,
       "purchaseDate": "2025-03-29T06:46:16.406Z",
       "ticketCode": "TK-004-01N05"
+    },
+    {
+      "id": "4bed",
+      "userId": "2",
+      "eventId": "1",
+      "quantity": 1,
+      "price": 63,
+      "purchaseDate": "2025-04-27T15:25:13.714Z",
+      "ticketCode": "TK-491-5HX41"
+    },
+    {
+      "id": "6349",
+      "userId": "2",
+      "eventId": "3",
+      "quantity": 1,
+      "price": 50,
+      "purchaseDate": "2025-04-27T15:25:13.746Z",
+      "ticketCode": "TK-700-PX9E1"
+    },
+    {
+      "id": "c468",
+      "userId": "2",
+      "eventId": "11",
+      "quantity": 2,
+      "price": "15",
+      "purchaseDate": "2025-04-27T15:25:13.758Z",
+      "ticketCode": "TK-045-YN0SN"
     }
   ]
 }
